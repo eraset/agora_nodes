@@ -18,7 +18,15 @@
 .widget-conditional .widget-conditional-inner {
 	background: #F9F9F9;
 	border: 1px solid #DFDFDF;
-	padding: 12px 10px 0;
+	/* XTEC ************ MODIFICAT ­ Fix style visibility */
+	/* 2016.10.21 @xaviernietosanchez */
+­­­	padding-top: 12px;
+	padding-right: 2%;
+	/* ************ ORIGINAL */
+	/*
+­­­	padding: 12px 10px 0;
+	*/
+	/* *********** FI */
 
 }
 .widget-conditional {
